@@ -32,8 +32,6 @@ Analyzes the algorithm’s performance and explains the computational complexity
 A detailed explanation of the algorithm and implementation is provided in the project presentation:
 
 👉 **[Click here to open the presentation](./presentation.pdf)**  
-*(Upload your presentation file as `presentation.pdf` in the repository to activate this link.)*
-
 ---
 
 ## 🛠️ Technologies Used
@@ -46,4 +44,4 @@ A detailed explanation of the algorithm and implementation is provided in the pr
 ## ▶️ How to Run the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUserName/YourRepoName.git
+   git clone https://github.com/malekahmed99/Voronoi-Divide-Conquer.git
