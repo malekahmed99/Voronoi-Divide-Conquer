@@ -1,7 +1,0 @@
-This is a placeholder text file saved with .pptx extension because the chat environment cannot attach binary PPTX files directly. To produce the actual PPTX, run the presentation_builder.py script included in this branch locally (it uses python-pptx) which will generate the Voronoi_Divide_Conquer_Presentation.pptx binary file.
-
-INSTRUCTIONS:
-1) Install python-pptx: pip install python-pptx
-2) Run: python presentation_builder.py
-
-The generator script will fill slides, add doodle diagrams (using the assets SVGs), and save the .pptx.
